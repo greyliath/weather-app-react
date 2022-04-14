@@ -11,7 +11,7 @@ export default function App() {
           <a
             href='https://github.com/greyliath/weather-app-react'
             target='_blank'
-            rel='noreferrer'
+            rel='noopener noreferrer'
           >
             open-sourced code</a> by greyliath
         </footer>
