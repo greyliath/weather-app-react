@@ -13,8 +13,7 @@ export default function App() {
             target='_blank'
             rel='noreferrer'
           >
-            open-sourced code by greyliath
-          </a>
+            open-sourced code</a> by greyliath
         </footer>
       </div>
     </div>
